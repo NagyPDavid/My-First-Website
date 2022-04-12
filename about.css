@@ -1,0 +1,26 @@
+h1{
+    color: limegreen;
+    font-style: italic;
+}
+
+p {
+    color: gray;
+    font-weight: bold;
+}
+
+a {
+    font-family: 'Josefin Sans', sans-serif;
+    color: steelblue;
+    font-weight: normal;
+    font-size: 20px;
+    border: solid steelblue 1px;
+    border-radius: 5px;
+    padding: 5px;
+    text-decoration: none;
+}
+a:hover{
+    font-size: 20px;
+    padding: 5px;
+    color: white;
+    background: steelblue;
+}
